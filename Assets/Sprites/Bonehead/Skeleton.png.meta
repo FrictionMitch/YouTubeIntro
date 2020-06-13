@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 16fbf238a32494b4eb68817ed2f9ff28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Horns
+  - first:
+      213: 21300002
+    second: LeftFemur
+  - first:
+      213: 21300004
+    second: LeftBicep
+  - first:
+      213: 21300006
+    second: Skull
+  - first:
+      213: 21300008
+    second: Spine
+  - first:
+      213: 21300010
+    second: LeftForeArm
+  - first:
+      213: 21300012
+    second: LeftShin
+  - first:
+      213: 21300014
+    second: RightBicep
+  - first:
+      213: 21300016
+    second: RightFemur
+  - first:
+      213: 21300018
+    second: RightForeArm
+  - first:
+      213: 21300020
+    second: RightShin
+  - first:
+      213: 21300022
+    second: Eyes
+  - first:
+      213: 21300024
+    second: Hip
+  - first:
+      213: 21300026
+    second: LeftHand
+  - first:
+      213: 21300028
+    second: RightHand
+  - first:
+      213: 21300030
+    second: UpperRib
+  - first:
+      213: 21300032
+    second: MiddleRib
+  - first:
+      213: 21300034
+    second: LowerRib
+  - first:
+      213: 21300036
+    second: Horns
+  - first:
+      213: 21300038
+    second: LeftHand
+  - first:
+      213: 21300040
+    second: Skeleton_2
+  - first:
+      213: 21300042
+    second: LeftFemur
+  - first:
+      213: 21300044
+    second: LeftBicep
+  - first:
+      213: 21300046
+    second: MiddleRib
+  - first:
+      213: 21300048
+    second: Skeleton_6
+  - first:
+      213: 21300050
+    second: Skeleton_7
+  - first:
+      213: 21300052
+    second: Skeleton_8
+  - first:
+      213: 21300054
+    second: Skeleton_9
+  - first:
+      213: 21300056
+    second: Skeleton_10
+  - first:
+      213: 21300058
+    second: Skeleton_11
+  - first:
+      213: 21300060
+    second: Skeleton_12
+  - first:
+      213: 21300062
+    second: Skeleton_13
+  - first:
+      213: 21300064
+    second: Skull
+  - first:
+      213: 21300066
+    second: Skeleton_15
+  - first:
+      213: 21300068
+    second: Spine
+  - first:
+      213: 21300070
+    second: UpperRib
+  - first:
+      213: 21300072
+    second: Skeleton_18
+  - first:
+      213: 21300074
+    second: Skeleton_19
+  - first:
+      213: 21300076
+    second: Skeleton_20
+  - first:
+      213: 21300078
+    second: LeftForeArm
+  - first:
+      213: 21300080
+    second: LeftShin
+  - first:
+      213: 21300082
+    second: Skeleton_23
+  - first:
+      213: 21300084
+    second: Skeleton_24
+  - first:
+      213: 21300086
+    second: LowerRib
+  - first:
+      213: 21300088
+    second: Skeleton_26
+  - first:
+      213: 21300090
+    second: Skeleton_27
+  - first:
+      213: 21300092
+    second: Skeleton_28
+  - first:
+      213: 21300094
+    second: Skeleton_29
+  - first:
+      213: 21300096
+    second: Skeleton_30
+  - first:
+      213: 21300098
+    second: Skeleton_31
+  - first:
+      213: 21300100
+    second: Skeleton_32
+  - first:
+      213: 21300102
+    second: Skeleton_33
+  - first:
+      213: 21300104
+    second: Skeleton_34
+  - first:
+      213: 21300106
+    second: Pelvis
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Horns
+      rect:
+        serializedVersion: 2
+        x: 93.31336
+        y: 1219.2319
+        width: 545.1221
+        height: 214.31934
+      alignment: 9
+      pivot: {x: 0.49839595, y: 0.48650795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2675d48c2f4b5499817079ebe4ba91
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftFemur
+      rect:
+        serializedVersion: 2
+        x: 1213.9808
+        y: 1066
+        width: 169.9961
+        height: 371.07227
+      alignment: 9
+      pivot: {x: 0.49424246, y: 0.48912308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212995eb13060b04fbc5ca0b49be1c33
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftBicep
+      rect:
+        serializedVersion: 2
+        x: 697.0794
+        y: 1004.294
+        width: 188.37402
+        height: 415.39557
+      alignment: 9
+      pivot: {x: 0.5171658, y: 0.5180748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfb1748f35978249b71cef7c9adb507
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull
+      rect:
+        serializedVersion: 2
+        x: 81.338425
+        y: 666.59814
+        width: 392.69336
+        height: 448.9082
+      alignment: 9
+      pivot: {x: 0.48424962, y: 0.50433886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c687b93ccdef945bbce83a179805cf
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spine
+      rect:
+        serializedVersion: 2
+        x: 1440.4824
+        y: 602.6755
+        width: 182.96875
+        height: 445.66498
+      alignment: 9
+      pivot: {x: 0.44826004, y: 0.51344544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fa75a85b2f7c64aae2783de940a5a8
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpperRib
+      rect:
+        serializedVersion: 2
+        x: 1540.9983
+        y: 1066.6418
+        width: 658.6328
+        height: 181.88782
+      alignment: 9
+      pivot: {x: 0.5109098, y: 0.5297669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7492e561632ee7429a1f3f123d3eade
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftForeArm
+      rect:
+        serializedVersion: 2
+        x: 722.285
+        y: 536.22156
+        width: 150.53711
+        height: 352.6944
+      alignment: 9
+      pivot: {x: 0.549466, y: 0.48988163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df574ed87ebe2fe4ea6bca76025670e9
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftShin
+      rect:
+        serializedVersion: 2
+        x: 1082.2943
+        y: 525.00336
+        width: 199.18445
+        height: 382.96387
+      alignment: 9
+      pivot: {x: 0.5156317, y: 0.4765375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2743825022e1d48a82ade002d2e8dd
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LowerRib
+      rect:
+        serializedVersion: 2
+        x: 1687.9436
+        y: 558.9853
+        width: 454.31348
+        height: 115.94336
+      alignment: 9
+      pivot: {x: 0.48547184, y: 0.4141221}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b824c31a8b110448fcea2ff64b04c6
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightBicep
+      rect:
+        serializedVersion: 2
+        x: 75.85346
+        y: 66.36697
+        width: 187.29297
+        height: 411.0713
+      alignment: 9
+      pivot: {x: 0.5240267, y: 0.514833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0de5338c93c0834a90b4b60f7663a36
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightFemur
+      rect:
+        serializedVersion: 2
+        x: 327.6451
+        y: 110.420616
+        width: 171.07715
+        height: 366.74802
+      alignment: 9
+      pivot: {x: 0.4784677, y: 0.4855633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ede767823cace44980d5ad6218f2f7
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightForeArm
+      rect:
+        serializedVersion: 2
+        x: 733.1538
+        y: 130.2253
+        width: 153.78027
+        height: 353.7754
+      alignment: 9
+      pivot: {x: 0.5192226, y: 0.4982673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7535aa308fe81447acd383f4634fecc
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightShin
+      rect:
+        serializedVersion: 2
+        x: 915.79724
+        y: 106.42164
+        width: 198.10364
+        height: 384.04492
+      alignment: 9
+      pivot: {x: 0.51590616, y: 0.48322037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c32c76aa9c439a4792b82a7a780f6a5
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyes
+      rect:
+        serializedVersion: 2
+        x: 1196.6288
+        y: 289.39307
+        width: 285.66895
+        height: 187.29297
+      alignment: 9
+      pivot: {x: 0.5176314, y: 0.52381533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9ac9ed09772524aa43dfa2d172c326
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip
+      rect:
+        serializedVersion: 2
+        x: 1716.9384
+        y: 270.13763
+        width: 371.0724
+        height: 209.99512
+      alignment: 9
+      pivot: {x: 0.55127156, y: 0.5350713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b74c337d019054b9074259ae5bc592
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftHand
+      rect:
+        serializedVersion: 2
+        x: 527.9835
+        y: 313.5831
+        width: 200.26569
+        height: 187.29297
+      alignment: 9
+      pivot: {x: 0.44948527, y: 0.44271246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1eadb9b52232747bca927e8f471bee
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightHand
+      rect:
+        serializedVersion: 2
+        x: 1500.6903
+        y: 312.47562
+        width: 200.26562
+        height: 187.29297
+      alignment: 9
+      pivot: {x: 0.48340586, y: 0.42459917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e8da71534ab3941923e5fcb95a9f76
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiddleRib
+      rect:
+        serializedVersion: 2
+        x: 1608.0095
+        y: 692.9155
+        width: 575.3916
+        height: 161.34766
+      alignment: 9
+      pivot: {x: 0.517892, y: 0.57072085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f2d21e8414072499ac440061f29347
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3a4c139c49b981342a7d5746c8f94649
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 636912961911998516
+  assetBundleName: 
+  assetBundleVariant: 
